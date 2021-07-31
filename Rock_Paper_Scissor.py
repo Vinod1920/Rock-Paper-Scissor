@@ -1,7 +1,4 @@
 
-# ROCK PAPER SCISSOR
-
-
 import random
 
 rock = '''
